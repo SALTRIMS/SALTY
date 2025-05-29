@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "TAN HEADLINE";
+  src: url("https://static1.squarespace.com/static/6798666fa1dd1836e5573c4d/t/6837fe4e469546379f46d8a4/1748497636455/TANHEADLINE-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ROCA LIGHT";
+  src: url("https://static1.squarespace.com/static/6798666fa1dd1836e5573c4d/t/6837fe4e41d156008fa16ddf/1748497636676/RocaOne-Lt.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
